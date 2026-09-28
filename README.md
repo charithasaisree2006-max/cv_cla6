@@ -67,4 +67,21 @@ Intensity level slicing emphasizes specific regions of an image based on their i
 * **With background** → Background information is retained
 * **Without background** → Background is suppressed
 
-The selected intensity range can be change
+The selected intensity range can be changed depending on the region or object that needs to be highlighted.
+
+## APPLICATIONS
+
+Intensity level slicing is useful in:
+
+* Image enhancement
+* Medical image processing
+* Image segmentation
+* Feature extraction
+* Object detection
+* Satellite image analysis
+* Industrial image processing
+* Digital image processing
+
+# CONCLUSION
+
+The experiment demonstrates **intensity level slicing** by selecting and highlighting pixels within the intensity range of **100 to 200**. The results are observed using **slicing with background** and **slicing without background**. This technique helps in emphasizing specific regions of an image and is useful in **image enhancement, segmentation, feature extraction, and digital image processing**.
