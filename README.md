@@ -1,4 +1,4 @@
-<img src="output.png" alt="Output image" width="400">
+<img src="output.png" alt="Output image" width="300">
 <img src="output1.png" alt="Output image" width="400">
 # AIM
 
