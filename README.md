@@ -1,3 +1,4 @@
+<img src="output.png" alt="Output image" width="700">
 # AIM
 
 To demonstrate **intensity level slicing** of an image by selecting and highlighting pixels within a specified range of intensity values.
